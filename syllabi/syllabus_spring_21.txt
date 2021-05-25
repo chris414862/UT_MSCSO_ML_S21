@@ -1,0 +1,166 @@
+CS 391L - Machine Learning
+
+Spring 2021 Syllabus
+
+Instructors:
+
+Professor Adam Klivans - onlinemachinelearning@austin.utexas.edu - Online office hours by appointment
+
+Professor Qiang Liu - onlinemachinelearning@austin.utexas.edu - Online office hours by appointment
+
+TAs:
+
+       Office hour link: https://utexas.zoom.us/j/96461767228
+
+Amir Fallah - afallah@utexas.edu               - Online office hours: Wed 9am - 10am
+
+Bo Sun - bosun0711@gmail.com                - Online office hours: Thu 4pm - 5pm
+
+Rahi Kalantari - rahikalantari@gmail.com - Online office hours: Tue 8pm - 9pm
+
+Siming Yan - simingyanpku@gmail.com    - Online office hours: Fri 4pm - 5pm
+
+Ziyang Tang - ztang@cs.utexas.edu            - Online office hours: Sat 2pm - 3pm
+
+Course Overview
+
+This course will cover the fundamentals of computational and statistical learning theory. Both mathematical and applied aspects of machine learning will be covered.
+
+Prerequisites
+
+This course does require some sound mathematical foundations. Recommended:
+
+--------------
+a course in probability and statistics,
+a course in discrete mathematics,
+a course in linear algebra, and
+experience with programming in Python and using Jupyter notebooks.
+Textbooks
+--------------
+
+The book “Understanding Machine Learning from Theory to Algorithms,” by Shalev-Shwartz and Ben-David is recommended but not required. It can be found free online here.
+
+Technical Requirements
+
+To participate in this course you must use a laptop or desktop computer.
+
+Your machine should be able to run Python 3 and Jupyter notebooks. You can also use Google Colab if you prefer. Please make sure you have looked over the following: https://colab.research.google.com/notebooks/welcome.ipynb and that your computer supports this setup.  We will be using Python 3 (as opposed to 2). 
+
+In addition, please make sure your machine adheres to the following requirements:
+
+--------------
+OS: Windows 10 or macOS 10.12/10.13/10.14/10.15
+At least 2GB of free hard drive space
+Hardware: Dual Core 2.4 Ghz
+4GB RAM or better
+Internet Connection: Cable modem/DSL or better (500kbps download, 300kbps upload)
+Browser: Latest version of Google Chrome or Firefox (Chrome is preferred)
+Lastly, please make sure you have the following:
+--------------
+
+Smartphone, scanner, or other device to take pictures and make PDFs of homework submissions
+Smartphone or other device capable of being used for dual-factor authentication
+Webcam and microphone for online proctoring and office hours.  
+Topic Outline
+
+Part 1:
+
+Week 1: January 19 - January 25
+Topic: Mistake-Bounded Learning and Decision Trees
+
+Week 2: January 26 - February 1
+Topic: PAC Learning and Cross Validation
+
+Week 3: February 2 - February 8
+Topic: Perceptron and Linear regression
+Homework 1 due on Feb. 8 at 23:59 UTC
+
+Week 4: February 9 - February 15
+Topic: Gradient Descent and Boosting
+
+Week 5: February 16 - February 22
+Topic: Logistic Regression and PCA
+Homework 2 due on Feb. 22 at 23:59 UTC
+
+Week 6: February 23 - March 1
+Topic: SVD
+
+Week 7: March 2 - March 8
+Homework 3 due on March 8 at 23:59 UTC
+Exam 1: two continuous hours during the window of March 11 0:00UTC to March 14 23:59UTC 
+
+Spring Break: March 15 - March 20
+
+Part 2:
+
+Week 8: March 22 - March 29
+Topic: Maximum Likelihood Estimation
+
+Week 9: March 30 - April 5
+Topic: Bayesian Inference
+
+Week 10: April 6 - April 12
+Topic: Clustering, K-means and EM
+Homework 4 due April 9 at 23:59 UTC
+
+Week 11: April 13 - April 19
+Topic: Multivariate Normal and Graphical Models
+
+Week 12: April 20 - April 26
+Topic: Kernel Methods
+Homework 5 due April 23 at 23:59 UTC
+
+Week 13: April 27 - May 3
+Topic: Neural Networks
+
+Week 14: May 4 - May 10
+Homework 6 due May 7 at 23:59 UTC
+Exam 2: two continuous hours during the window of May 14 0:00UTC to May 17 23:59UTC 
+
+ 
+
+Assignments, Assessment, Evaluation
+
+Homework (40%): There are six homework assignments in this class. Each assignment has two parts: a theory part and a programming part. Homework is due at the time indicated on the assignment and no late homework will be accepted. Homework assignments will be peer-graded and you must complete peer-grading in order to receive a grade for the assignment. Your lowest homework score will be automatically dropped.
+
+Exams (60%): There two exams in this class. Exams are timed and will take no more than two continuous hours. You'll have a 96 hour window in which to complete the two-hour exam. No exam grade will be dropped. No late exams will be accepted. Exams will be graded by the TAs or instructors. 
+
+Final grades will be based on +/- letter grade system and will be curved. The following scheme is just a rough guideline:
+A = 94-100
+A- = 90-93
+B+ = 87-89
+B = 84-86
+B- = 80-83
+C+ = 77-79
+C = 74-76
+C- = 70-73
+D+ = 67-69
+D = 64-66
+D- = 60-63
+F = 0-59
+
+Program Grade Requirements: 30 hour program (9 required hours, 21 elective hour). Required courses, B- or higher. Elective courses, C or higher. To graduate, all students must have a graduate GPA average of at least 3.00.
+
+Academic Honesty and Collaboration Policy
+
+Collaboration is not allowed on the homeworks. Every homework needs to be solved individually.  We will check for duplicates.   Students may post questions about the homeworks on Piazza and may respond to other students' questions. The online course format allows for multiple methods of identity verification, collusion, collaboration and plagiarism monitoring and detection. A violation of the course policy may include (but is not limited to) the following:
+
+Providing your UT EID credentials to any other person
+Collaborating or sharing information with another person regarding the material on any assessment or exam.
+Recording any exam, assessment or assignment material in any format
+Failing to properly cite language, ideas, data, or arguments that are not originally yours
+The public (such that it can be viewed by more than one person) posting of any form of a test bank or group of questions from any assignment
+Consulting forbidden materials or sources of information
+The University of Texas at Austin Academic Integrity principles call for students to avoid engaging in any form of academic dishonesty on behalf of yourself or another student. Grade-related penalties are routinely assessed ("F" in the course is not uncommon), but students can also be suspended or even permanently expelled from the University for scholastic dishonesty. If you have any questions about what constitutes academic dishonesty, please refer to the Dean of Students website or contact the instructor for this course. By proceeding in this course, you agree to abide by the Honor Code of the University of Texas. You will not work with or collaborate with others in any way while completing any of the graded course assignments.
+
+Documented Disability Statement
+
+Any student with a documented disability who requires academic accommodations should contact Services for Students with Disabilities (SSD) at (512) 471-6259 (voice) or 1-866-329-3986 (videophone).  Faculty are not required to provide accommodations without an official accommodation letter from SSD. Please notify me as quickly as possible if the material being presented in class is  not  accessible  (e.g.,  instructional  videos  need  captioning,  course  packets  are  not  readable  for proper alternative text conversion,  etc.).  Contact Services for Students with Disabilities at 471-6259 (voice) or 1-866-329-3986 (video phone) or reference SSDs website for more disability-related information: https://diversity.utexas.edu/disability/.
+
+Behavior Concerns Advice Line
+
+If you are worried about someone who is acting differently,  you may use the Behavior Concerns Advice Line to discuss by phone your concerns about another individuals behavior.  This service is provided through a partnership among the Office of the Dean of Students, the Counseling andMental Health Center (CMHC), the Employee Assistance Program (EAP), and The University of Texas Police Department (UTPD). Call 512-232-5050 or visit https://besafe.utexas.edu/behavior-concerns-advice-line
+
+Academic Advisor Support
+
+If you have additional questions or require support from an academic advisor, please contact the program coordinator at MCSOGradCoordinator@austin.utexas.edu. If you are taking this course as part of the Data Science program, you can contact the coordinator at MSDSGradCoordinator@utexas.edu.
